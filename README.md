@@ -6,7 +6,7 @@ The advent of multi-omics technologies (e.g., genomics, transcriptomics, proteom
 
 November 2, 2022 at 3:00 PM UTC
 
-Workshop Outline:
+## Workshop Outline:
 
 1- Presentation (30 minutes) 
 We are going to have a short presentation on the important role of data science 6-step process flow for biomarker discovery
@@ -19,6 +19,7 @@ Please make sure you have R (https://www.r-project.org/) and RStudio (https://ww
 Writing and mainting R or Python codes is a time consuming task. I demonstrate a new amchine learning platform for the omics data analysis which saves your time and resources significantly.
 
 Please make sure you have installed the following R libraries:
+```r
 
 library(data.table)
 
@@ -49,7 +50,7 @@ library(caret)
 library(gains)
 
 library(lift)
-
+```
 
 ## Contributing :hearts:
 - If you like it, leave your star in this project :star2:
@@ -59,7 +60,6 @@ library(lift)
 ## Citation
 
 If you use any of the materials of this lesson, please cite as:
-> FIXME
 
 ## License
 
